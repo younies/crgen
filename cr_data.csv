@@ -1,0 +1,175 @@
+Source	Simplified Source	Target	Factor Num	Factor Den	Offset Num	Offset Den	Reciprocal	XML Line	Test	Result	Intermediate results
+acceleration-g-force	g-force	meter-per-second-squared	980665	100000	0	1	F	<convertUnit source='arc-second' target='degree'  factor='1/3600' offset='0/1 reciprocal='F' ' />			
+acceleration-meter-per-second-squared	meter-per-second-squared	meter-per-second-squared	1	1	0	1	F				
+angle-arc-minute	arc-minute	degree	1	60	0	1	F	"&F5&"			
+angle-arc-second	arc-second	degree	1	3600	0	1	F				
+angle-degree	degree	degree	1	1	0	1	F				
+angle-radian	radian	degree	1745329	100000000	0	1	F				
+angle-revolution	revolution	degree	360	1	0	1	F				
+area-acre	acre	square-foot	43560	1	0	1	F				
+area-hectare	hectare	square-foot	107639	1	0	1	F				
+area-square-centimeter	square-centimeter	square-meter	1	10000	0	1	F				
+area-square-foot	square-foot	square-meter	9290304	100000000	0	1	F				
+area-square-meter	square-meter	square-foot	100000000	9290304	0	1	F				
+area-square-inch	square-inch	square-foot	1	144	0	1	F				
+area-square-kilometer	square-kilometer	square-meter	1000000	1	0	1	F				
+area-square-mile	square-mile	square-foot	27878400	1	0	1	F				
+area-square-yard	square-yard	square-foot	9	1	0	1	F				
+area-dunam	dunam	square-meter	1000	1	0	1	F				
+concentr-karat	karat										
+concentr-milligram-per-deciliter	milligram-per-deciliter										
+concentr-millimole-per-liter	millimole-per-liter										
+concentr-part-per-million	part-per-million										
+concentr-percent	percent										
+concentr-permille	permille										
+concentr-permyriad	permyriad										
+concentr-mole	mole										
+consumption-liter-per-100kilometers	liter-per-100kilometers										
+consumption-liter-per-kilometer	liter-per-kilometer										
+consumption-mile-per-gallon	mile-per-gallon										
+consumption-liter-per-kilometer	liter-per-kilometer										
+consumption-mile-per-gallon-imperial	mile-per-gallon-imperial										
+digital-bit	bit	bit	1	1	0	1	F				
+digital-byte	byte	bit	8	1	0	1	F				
+digital-gigabit	gigabit	bit	1000000000	1	0	1	F				
+digital-gigabyte	gigabyte	bit	8000000000	1	0	1	F				
+digital-kilobit	kilobit	bit	1000	1	0	1	F				
+digital-kilobyte	kilobyte	bit	8000	1	0	1	F				
+digital-megabit	megabit	bit	1000000	1	0	1	F				
+digital-megabyte	megabyte	bit	8000000	1	0	1	F				
+digital-petabyte	petabyte	bit	8E+15	1	0	1	F				
+digital-terabit	terabit	bit	1000000000000	1	0	1	F				
+digital-terabyte	terabyte	bit	8000000000000	1	0	1	F				
+duration-century	century	Handled by Calendar									
+duration-decade	decade	Handled by Calendar									
+duration-day	day	second	86400	1	0	1	F				
+duration-day-person	day-person	second	86400	1	0	1	F				
+duration-hour	hour	second	3600	1	0	1	F				
+duration-microsecond	microsecond	second	1	1000000	0	1	F				
+duration-millisecond	millisecond	second	1	1000	0	1	F				
+duration-minute	minute	second	60	1	0	1	F				
+duration-month	month	Handled by Calendar									
+duration-month-person	month-person	Handled by Calendar									
+duration-nanosecond	nanosecond	second	1	1000000000	0	1	F				
+duration-second	second	second	1	1	0	1	F				
+duration-week	week	second	604800	1	0	1	F				
+duration-week-person	week-person	second	604800	1	0	1	F				
+duration-year	year	Handled by Calendar									
+duration-year-person	year-person	Handled by Calendar									
+electric-ampere	ampere	ampere	1	1	0	1	F				
+electric-milliampere	milliampere	ampere	1	1000	0	1	F				
+electric-ohm	ohm	ohm	1	1	0	1	F				
+electric-volt	volt	volt	1	1	0	1	F				
+energy-calorie	calorie	joule	41868	10000	0	1	F				
+energy-foodcalorie	foodcalorie	joule	41868	10	0	1	F				
+energy-joule	joule	joule	1	1	0	1	F				
+energy-kilocalorie	kilocalorie	joule	41868	10	0	1	F				
+energy-kilojoule	kilojoule	joule	1000	1	0	1	F				
+energy-kilowatt-hour	kilowatt-hour	joule	3600000	1	0	1	F				
+energy-electronvolt	electronvolt	joule	1602177	10000000000000	0	1	F				
+energy-therm-us	therm-us	joule	105480400	1	0	1	F				
+energy-british-thermal-unit	british-thermal-unit										
+force-pound-force	pound-force	newton	4448222	1000000	0	1	F				
+force-newton	newton	newton	1	1	0	1	F				
+frequency-gigahertz	gigahertz	hertz	1000000000	1	0	1	F				
+frequency-hertz	hertz	hertz	1	1	0	1	F				
+frequency-kilohertz	kilohertz	hertz	1000	1	0	1	F				
+frequency-megahertz	megahertz	hertz	1000000	1	0	1	F				
+graphics-dot-per-centimeter	dot-per-centimeter										
+graphics-dot-per-inch	dot-per-inch										
+graphics-em	em										
+graphics-megapixel	megapixel										
+graphics-pixel	pixel										
+graphics-pixel-per-centimeter	pixel-per-centimeter										
+graphics-pixel-per-inch	pixel-per-inch										
+length-astronomical-unit	astronomical-unit										
+length-centimeter	centimeter	meter	1	100	0	1	F				
+length-decimeter	decimeter	meter	1	10	0	1	F				
+length-fathom	fathom	foot	6	1	0	1	F				
+length-meter	meter	foot	3048006	10000000	0	1	F				
+length-foot	foot	meter	10000000	3048006	0	1	F				
+length-furlong	furlong	foot									
+length-inch	inch	foot	1	12	0	1	F				
+length-kilometer	kilometer	meter	1000	1	0	1	F				
+length-light-year	light-year	meter	946073	1E+20	0	1	F				
+length-micrometer	micrometer	meter	1	1000000	0	1	F				
+length-mile	mile	foot	5280	1	0	1	F				
+length-mile-scandinavian	mile-scandinavian	foot									
+length-millimeter	millimeter	meter	1	1000	0	1	F				
+length-nanometer	nanometer	meter	1	1000000000	0	1	F				
+length-nautical-mile	nautical-mile	meter	1852	1	0	1	F				
+length-parsec	parsec	meter									
+length-picometer	picometer	meter	1	1000000000000	0	1	F				
+length-point	point	meter	3527778	100	0	1	F				
+length-yard	yard	foot	3	1	0	1	F				
+length-solar-radius	solar-radius	meter	695,510,000	1	0	1	F				
+light-lux	light-lux										
+light-solar-luminosity	light-solar-luminosity										
+mass-carat	carat	kilogram									
+mass-gram	gram	kilogram	1	1000	0	1	F				
+mass-kilogram	kilogram	pound	10000000	4535924							
+mass-metric-ton	metric-ton	kilogram									
+mass-microgram	microgram	kilogram	1	1000000	0	1	F				
+mass-milligram	milligram	kilogram	1	1000	0	1	F				
+mass-ounce	ounce	pound	1	16	0	1	F				
+mass-ounce-troy	ounce-troy										
+mass-pound	pound	kilogram	4535924	10000000	0	1	F				
+mass-stone	stone	pound	14	1	0	1	F				
+mass-ton	ton	pound	2000	1	0	1	F				
+mass-dalton	dalton										
+mass-earth-mass	earth-mass										
+mass-solar-mass	solar-mass										
+power-gigawatt	gigawatt	watt	1000000000	1	0	1	F				
+power-horsepower	horsepower	watt									
+power-kilowatt	kilowatt	watt	1000	1	0	1	F				
+power-megawatt	megawatt	watt	1000000	1	0	1	F				
+power-milliwatt	milliwatt	watt	1	1000	0	1	F				
+power-watt	watt	watt									
+pressure-atmosphere	atmosphere	pascal	101325	1	0	1	F				
+pressure-hectopascal	hectopascal	pascal									
+pressure-inch-hg	inch-hg	pascal									
+pressure-bar	bar	pascal	100000	1	0	1	F				
+pressure-millibar	millibar	pascal	100	1	0	1	F				
+pressure-millimeter-of-mercury	millimeter-of-mercury	pascal	1333224	10000	0	1	F				
+pressure-pound-per-square-inch	pound-per-square-inch	pascal	6894757	1000	0	1	F				
+pressure-pascal	pascal	pascal	1	1	0	1	F				
+pressure-kilopascal	kilopascal	pascal	1000	1	0	1	F				
+pressure-megapascal	megapascal	pascal	1000000	1	0	1	F				
+speed-kilometer-per-hour	kilometer-per-hour	meter-per-second	10	36	0	1	F				
+speed-knot	knot	meter-per-second	5144444	10000000	0	1	F				
+speed-meter-per-second	meter-per-second	meter-per-second	1	1	0	1	F				
+speed-mile-per-hour	mile-per-hour	meter-per-second	44704	100000	0	1	F				
+temperature-celsius	celsius	celsius	1	1	0	1	F				
+temperature-fahrenheit	fahrenheit	celsius	5	9	-160	9	F				
+temperature-generic	generic	celsius									
+temperature-kelvin	kelvin	celsius	1	1	27315	100	F				
+torque-pound-foot	pound-foot	newton-meter	1355818	1000000	0	1	F				
+											
+torque-newton-meter	newton-meter	pound-foot	1000000	1355818	0	1	F				
+volume-acre-foot	acre-foot	cubic-foot									
+volume-bushel	bushel	cubic-meter	3523907	100000000	0	1	F				
+volume-centiliter	centiliter	cubic-meter	1	100000	0	1	F				
+volume-cubic-centimeter	cubic-centimeter	cubic-meter	1	1000000	0	1	F				
+volume-cubic-foot	cubic-foot	cubic-meter	2831685	100000000	0	1	F				
+volume-cubic-inch	cubic-inch	cubic-foot	1	1728	0	1	F				
+volume-cubic-kilometer	cubic-kilometer	cubic-meter	1000000000	1	0	1	F				
+volume-cubic-meter	cubic-meter	cubic-foot	100000000	2831685	0	1	F				
+volume-cubic-mile	cubic-mile	cubic-foot	147197952000	1	0	1	F				
+volume-cubic-yard	cubic-yard	cubic-foot	27	1	0	1	F				
+volume-cup	cup	cubic-foot									
+volume-cup-metric	cup-metric	cubic-meter									
+volume-deciliter	deciliter	cubic-meter	1	10000	0	1	F				
+volume-fluid-ounce	fluid-ounce	cubic-foot									
+volume-fluid-ounce-imperial	fluid-ounce-imperial	cubic-foot									
+volume-gallon	gallon	cubic-foot									
+volume-gallon-imperial	gallon-imperial	cubic-foot									
+volume-hectoliter	hectoliter										
+volume-liter	liter	cubic-meter									
+volume-megaliter	megaliter	cubic-meter	1000	1	0	1	F				
+volume-milliliter	milliliter	cubic-meter	1	1000000	0	1	F				
+volume-pint	pint	cubic-foot									
+volume-pint-metric	pint-metric	cubic-meter									
+volume-quart	quart										
+volume-tablespoon	tablespoon	cubic-foot									
+volume-teaspoon	teaspoon	cubic-foot									
+volume-barrel	barrel										
